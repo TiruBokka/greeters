@@ -1,3 +1,3 @@
-module github.com/tirubokka/greeters
+module github.com/TiruBokka/greeters
 
 go 1.18
